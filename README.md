@@ -7,8 +7,6 @@
 > **Immersive combat search and rescue missions for DCS World**  
 > Experience the tension of medevac operations with realistic casualty management, weather effects, and night operations.
 
-![MEDEVAC Banner](https://via.placeholder.com/800x200/1a1a2e/16c79a?text=DCS+MEDEVAC+Mission+Script)
-
 ---
 
 ## 📋 Table of Contents
